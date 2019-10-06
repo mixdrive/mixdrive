@@ -2,6 +2,9 @@
   <a href="https://jonathanlloyd.github.io/mixdrive">
     <img src="https://github.com/jonathanlloyd/mixdrive/blob/master/assets/logo-dark.svg" alt="Mixdrive logo"/>
   </a>
+  <p align="center">
+    Track & analyse your music listening history
+  </p>
 </p>
 <p align="center">
   <a href="https://travis-ci.org/jonathanlloyd/mixdrive">
@@ -11,12 +14,11 @@
     <img src="https://img.shields.io/github/license/jonathanlloyd/mixdrive.svg" alt="MIT Licensed"/>
   </a>
 </p>
-<p align="center">
-  <b>
-    <a href="https://jonathanlloyd.github.io/mixdrive">
-      Website
-    </a>
-  </b>
-</p>
 
 ---
+
+# Features
+
+# Installation
+
+# Development
