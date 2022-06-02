@@ -13,6 +13,9 @@
   <a href="https://github.com/mixdrive/mixdrive/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/mixdrive/mixdrive.svg" alt="GPL V3 Licensed"/>
   </a>
+  <a href="https://github.com/psf/black">
+    <img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: Black"/>
+  </a>
 </p>
 
 ---
