@@ -3,7 +3,7 @@
     <img src="https://github.com/jonathanlloyd/mixdrive/blob/master/assets/logo-dark.svg" alt="Mixdrive logo"/>
   </a>
   <p align="center">
-    Track & analyse your music listening history
+    Free your listening history from online streaming
   </p>
 </p>
 <p align="center">
